@@ -1,5 +1,5 @@
 /* Script Title
-Create Date:        2022-02-01, last updated 2024-07-31
+Create Date:        2022-02-01, updated 2024-07-31
 Author:             Tom Ling
 Purpose: 			Short statement of why this script exists.
 Description:        Verbose description of what the query does goes here. Be specific and don't be
@@ -16,6 +16,7 @@ Usage:              Additional notes or caveats about this script, like where it
 CHANGELOG
 Date(yyyy-mm-dd)    Author              Comments
 ------------------- ------------------- ------------------------------------------------------------
+2024-07-31			Tom Ling			Portfolio version.
 2022-02-01          Tom Ling			Initial script completed.
 ***************************************************************************************************/
 
