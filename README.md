@@ -1,5 +1,5 @@
 # sql
-Examples of SQL scripts I have written. 
+Examples of SQL scripts I have written. Notes in parentheses within filenames indicate what techniques the script demonstrates (e.g. nested queries, cross joins, sending DBMail). 
 
 ## Contributing
 Not open to contributions. 
